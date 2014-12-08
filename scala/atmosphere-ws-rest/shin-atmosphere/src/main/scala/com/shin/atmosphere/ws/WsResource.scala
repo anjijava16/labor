@@ -1,7 +1,5 @@
 package com.shin.atmosphere.ws
 
-import javax.ws.rs.Path
-
 import org.atmosphere.config.service._
 import org.atmosphere.cpr.AtmosphereResource
 import org.slf4j.LoggerFactory
